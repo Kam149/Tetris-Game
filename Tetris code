@@ -650,13 +650,13 @@ void JClogo()
 
     settextstyle(1,0,4);
     outtextxy(265,160,"JC");
-  /******************************/
+  /******************************/ju
 
     setcolor(15);
     settextstyle(0,0,2);
-    Text3D(200,240,2,3,11,"Just Coding");
+    Text3D(200,240,2,3,11,"Kamak");
     Text3D(220,290,2,3,11,"Presents");
-    Text3D(70,390,2,3,11,"www.justdocodings.blogspot.in");
+    Text3D(70,390,2,3,11,"Tetris Game");
 
     settextstyle(0,0,0);
 
